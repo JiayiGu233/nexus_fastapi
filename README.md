@@ -21,9 +21,9 @@
 
 REPO_NAME=release-repo-hosted
 
-NEXUS_URL=http://10.86.9.179:8081
+NEXUS_URL=http://ip-address:8081
 NEXUS_USER=admin
-NEXUS_PASSWORD=siouxnexusadminpw0106
+NEXUS_PASSWORD=**********
 
 
 
